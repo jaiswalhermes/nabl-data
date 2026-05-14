@@ -1,1 +1,6 @@
-{"version": 1, "totalLabs": 2283, "updatedAt": "2026-04-27", "notes": "Data from nabl-india.org manual export. See README for schema."}
+{
+  "sha256": "df100176261c76e0ade6290bb7f7029f511c722e664e657c4f6a1b8ee6797d6b",
+  "updatedAt": "2026-05-14",
+  "count": 2350,
+  "scrapedAt": "2026-05-14T01:57:09.035883"
+}
